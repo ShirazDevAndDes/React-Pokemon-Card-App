@@ -1,0 +1,14 @@
+const shapeColors = [
+  { name: "black", color1: "#000000", color2: "#FFFFFF" },
+  { name: "blue", color1: "#37D4F8", color2: "#1F87FB" },
+  { name: "brown", color1: "#952C2C", color2: "#FF0000" },
+  { name: "gray", color1: "#434343", color2: "#BEBEBE" },
+  { name: "green", color1: "#ADF837", color2: "#1FFB62" },
+  { name: "pink", color1: "#D437F8", color2: "#FB1F9E" },
+  { name: "purple", color1: "#7237F8", color2: "#D91FFB" },
+  { name: "red", color1: "#F837A7", color2: "#FB1F1F" },
+  { name: "white", color1: "#AEAEAE", color2: "#FFFFFF" },
+  { name: "yellow", color1: "#F8A037", color2: "#FBDA1F" },
+];
+
+export default shapeColors;

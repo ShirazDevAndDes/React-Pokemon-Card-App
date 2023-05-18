@@ -1,0 +1,7 @@
+body {
+  background-color: #efefef;
+}
+
+#pokeDeck .card .card-text {
+  margin-bottom: 0;
+}
